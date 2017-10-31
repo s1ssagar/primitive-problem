@@ -1,0 +1,1 @@
+Solution to HackerRank "primitive-problem" problem in mathematics/Number Theory section
